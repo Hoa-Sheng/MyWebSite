@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>About us on MyWebsite</title>
+    <title>About us on MyWebSite</title>
     <link>http://localhost:1313/Hoa-Sheng/MyWebSite/about-us/</link>
-    <description>Recent content in About us on MyWebsite</description>
+    <description>Recent content in About us on MyWebSite</description>
     <generator>Hugo -- 0.146.1</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

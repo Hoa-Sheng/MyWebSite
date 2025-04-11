@@ -1,6 +1,6 @@
 baseURL: "https://github.com/Hoa-Sheng/MyWebSite"
 languageCode: en-us
-title: MyWebsite
+title: MyWebSite
 theme: PaperMod
 
 menu: 
@@ -12,5 +12,5 @@ menu:
       url: /About-us/
       weight: 2
     - name: Who we are
-      url: /Who-we-are/
+      url: /who-we-are/
       weight: 3
