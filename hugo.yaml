@@ -2,6 +2,8 @@ baseURL: "https://github.com/Hoa-Sheng/MyWebSite"
 languageCode: en-us
 title: MyWebSite
 theme: PaperMod
+params:
+  showReadingTime: true
 
 menu: 
   main:
