@@ -2,11 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/Hoa-Sheng/MyWebsite/</loc>
-    <lastmod>2025-04-11T09:55:45+02:00</lastmod>
+    <loc>http://localhost:1313/Hoa-Sheng/MyWebSite/</loc>
+    <lastmod>2025-04-11T11:59:21+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Hoa-Sheng/MyWebsite/categories/</loc>
+    <loc>http://localhost:1313/Hoa-Sheng/MyWebSite/posts/</loc>
+    <lastmod>2025-04-11T11:59:21+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Hoa-Sheng/MyWebsite/tags/</loc>
+    <loc>http://localhost:1313/Hoa-Sheng/MyWebSite/about-us/</loc>
+    <lastmod>2025-04-09T13:44:35+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Hoa-Sheng/MyWebSite/who-we-are/</loc>
+    <lastmod>2025-04-09T13:44:35+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Hoa-Sheng/MyWebSite/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/Hoa-Sheng/MyWebSite/tags/</loc>
   </url>
 </urlset>
